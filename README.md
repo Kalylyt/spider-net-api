@@ -83,9 +83,9 @@ A API foi testada utilizando:
 ## 📸 Evidências
 
 * POST funcionando
-
+está nas pastas como imagens
 * GET retornando dados
-
+está nas pastas como imagens
 ---
 
 ## ⚠️ Observações
